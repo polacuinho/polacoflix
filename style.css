@@ -16,7 +16,8 @@ section{
 img {
     height: 200px;
 }
-.filosofia-antiga{
+
+.dicas-de-minecraft{
     display: flex;
     overflow-x: auto;
     gap: 10px;
